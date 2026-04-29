@@ -2,7 +2,8 @@
 
 > Detecting fraud patterns in 10,000 bank transactions using Python
 
-![Dashboard](fraud_analiz.png)
+<img width="2318" height="2877" alt="fraud_analiz" src="https://github.com/user-attachments/assets/61ecf4c8-f8f6-4d9c-9c71-2e60b6c3d416" />
+
 
 ---
 
